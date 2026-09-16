@@ -28,5 +28,5 @@ Tener instalado ava JDK 21 Maven.
 
 
 ## 3. Ejecución de Pruebas Unitarias
-Para correr las pruebas unitarias automatizadas con JUnit 5 y Mockito (PaqueteServiceTest), ejecuta el siguiente comando en la terminal:
+Para correr las pruebas unitarias automatizadas con JUnit 5 y Mockito (PSTest), ejecuta el siguiente comando en la terminal:
 mvnw test
